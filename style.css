@@ -1,0 +1,22 @@
+div.titulo {
+    background-color: antiquewhite;
+    text-align: center;
+}
+div.secciones {
+    background-color: lightgreen;
+    text-align: center;
+}
+div.introduccion {
+    background-color: orange;
+}
+div.actividades {
+    background-color: orange;
+}
+span.sueño {
+    text-align: center;
+    background-color: yellow;
+}
+footer {
+    background-color: blue;
+    text-align: center;
+}
